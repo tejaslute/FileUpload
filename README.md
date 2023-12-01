@@ -5,7 +5,7 @@
 
    Routes
    
-   1. /localFileUpload  // Upload to server
-   2. /imageUpload      // upload to cloudinary
-   3. /videoUpload      // upload to cloudinary
-   4. /imageSizeReducer  // reduce size and upload
+   1.   /localFileUpload 
+   2.   /imageUpload     
+   3.   /videoUpload      
+   4.   /imageSizeReducer  
